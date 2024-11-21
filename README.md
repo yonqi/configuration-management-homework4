@@ -198,7 +198,8 @@
 
 
 Файл ```log.yaml``` после отработки программы:
-![image](https://github.com/user-attachments/assets/5920aab4-4f56-4062-a1dc-eca9ad4f6bcf)
+![image](https://github.com/user-attachments/assets/3cbb6e79-d7fb-4c2a-b939-a7725c76322e)
+
 
 
 

@@ -129,10 +129,12 @@
 ![image](https://github.com/user-attachments/assets/d5076234-ae10-4bb5-87d9-8e3d2c6cd7dd)
 
 Файл ```log.yaml``` после отработки программы:
+
 ![image](https://github.com/user-attachments/assets/4e55dbef-b3d5-4287-bf5c-585f5becd1a3)
 
 
 Файл ```result.yaml``` после отработки программы:
+
 ![image](https://github.com/user-attachments/assets/1fe91b8a-407c-4105-8fc9-24fba08f1b81)
 
 
@@ -163,11 +165,13 @@
 
 
 Файл ```log.yaml``` после отработки программы:
+
 ![image](https://github.com/user-attachments/assets/e64f27d2-ab26-4336-b2ac-2b010397e8ec)
 
 
 
 Файл ```result.yaml``` после отработки программы:
+
 ![image](https://github.com/user-attachments/assets/bf7faa99-2b14-413a-aa0f-ca86f0b3be87)
 
 
@@ -196,16 +200,13 @@
 ![image](https://github.com/user-attachments/assets/1ec5873d-fe79-4c3f-a394-c4bfeff66be8)
 
 
-
 Файл ```log.yaml``` после отработки программы:
+
 ![image](https://github.com/user-attachments/assets/3cbb6e79-d7fb-4c2a-b939-a7725c76322e)
 
 
-
-
-
-
 Файл ```result.yaml``` после отработки программы:
+
 ![image](https://github.com/user-attachments/assets/cafb8447-b6ec-400c-aa40-e9b916a1d54f)
 
 
@@ -235,12 +236,14 @@
 
 
 Файл ```log.yaml``` после отработки программы:
+
 ![image](https://github.com/user-attachments/assets/699b9366-5987-4a1a-bead-12c6b0658c86)
 
 
 
 
 Файл ```result.yaml``` после отработки программы:
+
 ![image](https://github.com/user-attachments/assets/4dd39234-8171-4ccd-a957-bcd6d2cd745b)
 
 
@@ -256,8 +259,10 @@
 
 
 Файл ```result.yaml``` после заполнения вектора числами:
+
 ![image](https://github.com/user-attachments/assets/0b47be60-fd00-490a-a02f-593d9d1714c6)
 
 Файл ```result.yaml``` после отработки операции abs() для каждого элемента:
+
 ![image](https://github.com/user-attachments/assets/cc57fe37-1628-43ff-b865-e3c4eccc79ca)
 
